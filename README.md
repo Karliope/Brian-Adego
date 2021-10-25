@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Brian-Adego
 - 👀 I’m interested in ... chess and languages
-- 🌱 I’m currently learning ... python and ruby
+- 🌱 I’m currently learning ... anything that wants to be learnt
 - 💞️ I’m looking to collaborate on ... creating real projects
-- 📫 How to reach me ... karlielinux@gmail.com, adegomwoa@gmail.com
+- 📫 How to reach me ... karlielinux@gmail.com
 
 <!---
 Brian-Adego/Brian-Adego is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
